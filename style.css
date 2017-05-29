@@ -1,0 +1,42 @@
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3 {
+  font-weight: 200;
+  color: rgb(0, 0, 128);
+}
+
+.grid-demo {
+  height: 20vw;
+  width: 33vw;
+  border: 1px solid rgb(190, 190, 190);
+  box-shadow: 4px 4px 4px rgb(200, 200, 200);
+}
+
+.demo-col-big-side {
+  padding-top: 16px;
+  padding-left: 4px;
+  background-color: rgb(225, 225, 225);
+  height: 100%;
+}
+
+.demo-col-big-content {
+  padding-top: 16px;
+  padding-left: 4px;
+  background-color: rgb(242, 242, 242);
+  height: 100%;
+}
+
+.demo-col {
+  background-color: rgb(242, 242, 242);
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+code {
+  margin-top: 8px;
+  font-family: 'Menlo', monospace;
+  color: rgb(128, 128, 128);
+}
