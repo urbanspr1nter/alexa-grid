@@ -1,5 +1,7 @@
 # alexa-grid
 
+**Demo Site**: http://rogerngo.com/demo/alexagrid/index.html
+
 ![image](http://rogerngo.com/public/images/alexagrid.png)
 
 Just include `alexa-grid.css` into your project, and begin making your grids.
